@@ -1,0 +1,10 @@
+Message:
+Moja wiadomosc do zaszyfrowania
+Key (DES):
+KluczDES
+Code:
+0xf375fd53cf33929a0e82c5aff5efb689b26ba78481ae341517f272a4b6022478
+Key1 (message XOR):
+KluczX01
+Key2 (cipher XOR):
+KluczX02
